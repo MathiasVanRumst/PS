@@ -1,4 +1,4 @@
-cd ../..
+cd ../...
 
 
 function Run-Scripts{
